@@ -1,0 +1,202 @@
+
+img {
+    width: 270px;
+}
+
+header {
+    background-color: #95AFD1;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.div-azul {
+    background-color: #015baa;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+div {
+    text-align: center;
+}
+
+.botao {
+    background-color: #95AFD1;
+    color: #03325b;
+    border: none;
+    margin-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.banner {
+    text-align: center;
+    background-color: #04316d;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.titulo {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 10px;
+    font-size: 40px;
+    color: white;
+    margin: 0;
+}
+
+.botao2 {
+    background-color: #015baa;
+    color:  white;
+    letter-spacing: 4px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 12px;
+    margin: 60px;
+    margin-bottom: 0;
+}
+
+.imagens {
+    background-color: white;
+    padding-top: 30px;
+}
+
+.imagem {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.texto {
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    background-color: #04316d;
+    color: white;
+    margin-bottom: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.noticias {
+    background-color: #6e86a5;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.imgnoticia {
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+.imgnoticia2 {
+    border-radius: 20px;
+}
+
+.logo2 {
+    width: 270px;
+}
+
+footer {
+    background-color: #95AFD1;
+    text-align: center;
+    color: #03325b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.rodape {
+    margin-bottom: 0;
+}
+
+.titulosaibamais {
+    text-align: center;
+    background-color: #03325b;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.historia {
+    text-align: center;
+    background-color:  #6e86a5;
+    color: white;
+    margin-top: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+.cursosmoda {
+    background-color: #03325b;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.a {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.imgmoda {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+   
+}
+img{
+    width: 300px;
+   
+}
+h3{
+    background-color:#6e86a5;
+    color:white ;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+img{
+    width: 300px;
+}
+h4{
+    background-color:#04316d;
+    color:white ;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+ 
+h1{
+    background-color: #04316d;
+    color:white ;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
